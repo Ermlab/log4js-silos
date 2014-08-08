@@ -1,1 +1,1 @@
-Integration of log4js with http://silos.io for Metor
+Integration of log4js with http://silos.ermlab.com for Metor
