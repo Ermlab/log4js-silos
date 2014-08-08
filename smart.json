@@ -1,9 +1,9 @@
 {
     "name": "log4js-silos",
-    "description": "Integration of log4js with http://silos.io for Metor",
+    "description": "Integration of log4js with http://silos.ermlab.com for Metor",
     "homepage": "https://github.com/Ermlab/log4js-silos",
     "author": "Ermlab (http://ermlab.com)",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "git": "https://github.com/Ermlab/log4js-silos.git",
     "packages": {}
 }
