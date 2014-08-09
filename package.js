@@ -2,10 +2,6 @@ Package.describe({
     summary: "Logging to silos via log4js"
 });
 
-// I made some changes to official NPM gitlab module (v0.8.6), so for now
-// we are using a local copy of the module
-// See https://www.npmjs.org/package/gitlab
-
 Npm.depends({
     "log4js": "0.6.16",
     "log4js-appender-silos": "0.1.0"
