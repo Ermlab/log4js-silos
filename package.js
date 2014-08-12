@@ -4,7 +4,7 @@ Package.describe({
 
 Npm.depends({
     "log4js": "0.6.16",
-    "log4js-appender-silos": "0.1.2"
+    "log4js-appender-silos": "0.1.3"
 });
 
 Package.on_use(function (api) {
